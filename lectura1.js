@@ -1,7 +1,7 @@
 // Importar el módulo readline
 const readline = require("readline");
 // Crear una interfaz para leer datos de la entrada estándar (stdin)
-const rl = readline.createInterface({
+const redl = readline.createInterface({
   input: process.stdin,
   output: process.stdout,
 });
